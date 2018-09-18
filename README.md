@@ -1,0 +1,2 @@
+# cSharpCalculateDayOfWeekByDate
+C# example that implements the Zeller formula for finding the specific day of a week(Monday, Tuesday, Wednesday...) if you are given a date on the Gregorian Calendar.  This program also has a couple of built in people to click and see their birth dates.  This program does not have built in logic catching to avoid impossible dates like the 35th of the month, so it relies on the user to not input bogus dates.
